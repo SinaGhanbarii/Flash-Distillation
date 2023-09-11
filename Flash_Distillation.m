@@ -1,7 +1,7 @@
-%% Unit Operation 1 project - Flash distillation column
-% Mohammad Sina Ghanbari Pakdehi        Student ID. = 98109978    Spring 2022 
+%% Unit Operation 1 mid-project - Flash distillation column
+% Mohammad Sina Ghanbari Pakdehi        Sharif University of Technology    Spring 2022 
 %% Part1 - The binary systems data
-clear,clc
+clear, clc
 Water_Coeff =       [5.08354,1663.125,-45.622];            % From 344 K to 373 K
 Methanol_Coeff =    [5.20409,1581.341,-33.50];             % From 288.1 K to 356.83 K
 Benzene_Coeff =     [4.01814,1203.835,-53.226];            % From 287.7 K to 354.07 K
